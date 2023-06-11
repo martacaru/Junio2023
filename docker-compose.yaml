@@ -18,6 +18,3 @@ services:
       - MONGO_INITDB_DATABASE=ope
       - MONGO_INITDB_ROOT_USERNAME=ADMIN
       - MONGO_INITDB_ROOT_PASSWORD=SECRETOS
-volumes:
-  mongo2-volume:
-    
